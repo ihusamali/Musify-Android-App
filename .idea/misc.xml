@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/arrow_down.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/black_bt.xml" value="0.1" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/button_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/circle.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/comment_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/google_icon_size.xml" value="0.1745" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/icon_size.xml" value="0.1745" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/menu_gradient.xml" value="0.1935" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/name_et_background.xml" value="0.1745" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/person.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/person_circle_white.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/play2.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/post_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/profile_circle.xml" value="0.1935" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/send.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/signup_bt.xml" value="0.1" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/drawable/song_box.xml" value="0.1945" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main10.xml" value="0.1" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main11.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main12.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main13.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main14.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main15.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main16.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main17.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main18.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main19.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main20.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main21.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main22.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main4.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main5.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main6.xml" value="0.15" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main7.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main8.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/activity_main9.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/content_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/nav_header.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/layout/nav_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/menu/activity_main_drawer.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/East/AndroidStudioProjects/A1/app/src/main/res/menu/nav_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

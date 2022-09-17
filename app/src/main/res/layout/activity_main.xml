@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical">
+
+
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Splash Screen"
+        android:background="@drawable/signup_bt"/>
+
+    <Button
+        android:id="@+id/bt2"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign up"
+        android:background="@drawable/signup_bt"/>
+
+    <Button
+        android:id="@+id/bt3"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign in"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt4"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign up options"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt5"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Playlists"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt6"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comments"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt7"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Playlist"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt8"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload Music"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt9"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Record"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt10"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recording"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt11"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play Recording"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt12"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Playing Recording"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt13"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Playlist"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt14"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play Song"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt15"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Song Playing"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt16"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt17"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Listen Later"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt18"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liked Playlists"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt19"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liked Music"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt20"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile"
+        android:background="@drawable/signup_bt" />
+
+    <Button
+        android:id="@+id/bt21"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Profile"
+        android:background="@drawable/signup_bt" />
+
+
+
+</LinearLayout>
+</ScrollView>

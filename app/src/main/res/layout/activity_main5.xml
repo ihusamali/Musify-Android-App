@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context=".MainActivity5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textColor="@color/white"
+        android:gravity="right"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:text="Sign In"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/main_logo2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:textSize="35dp"
+        android:text="Musify"/>
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="Continue with Facebook"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#1870EA"
+        android:layout_marginTop="50dp"
+        android:paddingRight="50dp"
+        android:layout_marginLeft="15dp"
+        android:textAllCaps="false"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/name_et_background"
+        android:drawableLeft="@drawable/fb_icon_size"/>
+
+    <Button
+        android:id="@+id/bt2"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="Continue with Google"
+        android:textSize="18dp"
+        android:textColor="#DD4839"
+        android:textStyle="bold"
+        android:paddingRight="50dp"
+        android:textAllCaps="false"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/name_et_background"
+        android:drawableLeft="@drawable/google_icon_size"/>
+
+    <Button
+        android:id="@+id/bt3"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textAllCaps="false"
+        android:text="Create account"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/name_et_background"/>
+    ></LinearLayout>
